@@ -4,8 +4,8 @@
 • Allows you to check thousands of usernames at a fast speed! <br/>
 
 # 🛠 Installation
-(Python is required to use this program. You can [install it here]([https://www.python.org/downloads/]).)
-1. Download the [.zip file]([https://www.python.org/downloads/]) and extract it into a folder
+(Python is required to use this program. You can [install it here](https://www.python.org/downloads/).)
+1. Download the [.zip file](https://github.com/AgentRyan/TikTok-Username-Checker/archive/refs/heads/main.zip) and extract it into a folder
 2. Install the required modules by running `python3 -m pip install -r requirements.txt` in your Command Prompt/Terminal. 
      - You can also run the automated bash file linked
      - For Windows, simply open the .bat file and it will install the required modules.
@@ -16,7 +16,7 @@
 5. Choose the amount of threads. You can only use 5 or below to prevent TikTok from ratelimiting your IP.
 6. All available usernames will be sent into a text file named `Available.txt`
 
-If you run into any errors, please [report it here]([https://www.python.org/downloads/]).
+If you run into any errors, please [report it here](https://github.com/AgentRyan/TikTok-Username-Checker/issues/new/choose).
 
 # 📝 Notes
 - May not work on Linux (untested) <br/>
