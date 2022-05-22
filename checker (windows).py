@@ -62,7 +62,7 @@ class tiktok:
                 self.print_console("Unavailable", username)
             elif r.status_code == 404:
                 self.available += 1
-                self.print_console("Available or Banned", username, Fore.GREEN)
+                self.print_console("Available", username, Fore.GREEN)
                 with open("Available.txt", "a") as f:
                     f.write(username + "\n")
             self.update_title()
@@ -85,9 +85,9 @@ class tiktok:
         os.system(clear)
         if clear == "cls":
             ctypes.windll.kernel32.SetConsoleTitleW("TikTok Username Checker | @agentryan on GitHub")
-        print(Fore.RED + ascii_text)
+        print(Fore.CYAN + ascii_text)
         self.load_usernames()
-        threads = int(input(f"       {Fore.WHITE}[{Fore.RED}Console{Fore.WHITE}] Threads (only ≥5): "))
+        threads = int(input(f"       {Fore.WHITE}[{Fore.CYAN}Console{Fore.WHITE}] Threads (only ≥5): "))
         print()
         if threads >= 5: # Will not work above 5 to prevent getting your IP banned from TikTok
             threads = 5
