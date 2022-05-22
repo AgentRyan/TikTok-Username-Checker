@@ -12,7 +12,9 @@
      - For macOS, open Terminal and cd into the extracted zip folder, then drag the install requirements .sh file into Terminal and press enter
      - For macOS, you can also watch the instruction video I included.
 3. Insert your usernames inside of the `usernames.txt` file. 
-4. Run the python by executing the command `python3 main.py` in your Command Prompt/Terminal. 
+4. Run the python by executing the command
+     -  on Windows, simply open the run.bat file
+     -  on macOS, watch the video linked on how to run the script.
 5. Choose the amount of threads. You can only use 5 or below to prevent TikTok from ratelimiting your IP.
 6. All available usernames will be sent into a text file named `Available.txt`
 
