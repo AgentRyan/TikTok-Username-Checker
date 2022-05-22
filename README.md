@@ -1,7 +1,7 @@
 # 🔎 TikTok Username Checker
-• A proxyless username checker for TikTok to check available usernames in bulk.
-• Works with Windows and MacOS (not tested on Linux)
-• Allows you to check thousands of usernames at a fast speed!
+• A proxyless username checker for TikTok to check available usernames in bulk. <br/>
+• Works with Windows and MacOS (not tested on Linux) <br/>
+• Allows you to check thousands of usernames at a fast speed! <br/>
 
 # 🛠 Installation
 (Python is required to use this program. You can [install it here]([https://www.python.org/downloads/]).)
@@ -15,8 +15,8 @@
 If you run into any errors, please [report it here]([https://www.python.org/downloads/]).
 
 # 📝 Notes
-• May not work on Linux (untested)
-• If you are on MacOS, do the instructions above but replace `main.py` with `macos.py`. It is the same script but without the stats feature.
-• Do not go above 5 threads as TikTok may limit or ban your IP.
-• The usernames that are marked as Available may not all be available, they could be banned. 
-• Since this isn't using TikTok's API, the results may be inaccurate but from most tests, this program works. 
+• May not work on Linux (untested) <br/>
+• If you are on MacOS, do the instructions above but replace `main.py` with `macos.py`. It is the same script but without the stats feature. <br/>
+• Do not go above 5 threads as TikTok may limit or ban your IP. <br/>
+• The usernames that are marked as Available may not all be available, they could be banned. <br/>
+• Since this isn't using TikTok's API, the results may be inaccurate but from most tests, this program works. <br/>
