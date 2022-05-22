@@ -4,7 +4,7 @@
 • Allows you to check thousands of usernames at a fast speed! <br/>
 
 # 🛠 Installation
-(Python is required to use this program. You can [install it here](https://www.python.org/downloads/).)
+(Python is required to use this program. You can [install it here](https://www.python.org/downloads/).
 1. Download the [.zip file](https://github.com/AgentRyan/TikTok-Username-Checker/archive/refs/heads/main.zip) and extract it into a folder
 2. Install the required modules by running `python3 -m pip install -r requirements.txt` in your Command Prompt/Terminal. 
      - You can also run the automated bash file linked
