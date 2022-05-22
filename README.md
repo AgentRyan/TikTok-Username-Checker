@@ -19,8 +19,8 @@
 If you run into any errors, please [report it here]([https://www.python.org/downloads/]).
 
 # 📝 Notes
-• May not work on Linux (untested) <br/>
-• If you are on macOS, run the python file with the (macOS) parentheses. It is the same script but without the stats feature. <br/>
-• Do not go above 5 threads as TikTok may limit or ban your IP. <br/>
-• The usernames that are marked as Available may not all be available, they could be banned. <br/>
-• Since this isn't using TikTok's API, the results may be inaccurate but from most tests, this program works. <br/>
+- May not work on Linux (untested) <br/>
+- If you are on macOS, run the python file with the (macOS) parentheses. It is the same script but without the stats feature. <br/>
+- Do not go above 5 threads as TikTok may limit or ban your IP. <br/>
+- The usernames that are marked as Available may not all be available, they could be banned. <br/>
+- Since this isn't using TikTok's API, the results may be inaccurate but from most tests, this program works. <br/>
